@@ -81,6 +81,27 @@ El usuario aún no tiene un tema.
 - Sem 3: elegir el tema ganador, publicar 1–2 diarios
 - Sem 4: crear 1 producto digital simple (PDF/plantilla) + link en la bio (Hotmart/Gumroad/Mercado Pago)
 
+## Dato clave: el usuario tiene experiencia en marketing
+Cambia la recomendación: usar esa experiencia + IA = ventaja frente a la competencia.
+
+**Ideas nuevas (100% online, IA + marketing):**
+| # | Idea | Cómo gana | Escala |
+|---|------|-----------|--------|
+| 1 | **Agencia de contenido con IA para pymes** (posts, reels, copies; 1 persona hace el trabajo de 5) | Suscripción mensual | Media-alta |
+| 2 | **Anuncios con IA** (avatares/UGC IA, creativos para Meta/TikTok Ads) | Por paquete de anuncios | Media |
+| 3 | **Chatbots WhatsApp/Instagram con IA** para pymes (responder, agendar, vender) | Instalación + mensualidad | Alta |
+| 4 | **Curso/comunidad "Marketing con IA para emprendedores chilenos"** | Venta de curso o suscripción (Hotmart, Skool) | Muy alta |
+| 5 | **Packs digitales**: prompts de marketing, calendarios de contenido, plantillas Canva por rubro | Venta única, infinitas veces | Muy alta |
+| 6 | **Canal faceless sobre marketing/IA** (combina con 4 y 5) | Audiencia → curso, packs, afiliados | Alta |
+| 7 | **Newsletter de nicho** (ej. "IA para pymes" semanal) | Patrocinios + afiliados | Media-alta |
+| 8 | **Generación de clientes potenciales (leads)** para rubros (dentistas, inmobiliarias, talleres) | Pago por lead o mensual | Alta |
+
+**Combo recomendado (todo alimenta todo):**
+1. Canal faceless + newsletter sobre "marketing con IA para pymes" → construye audiencia.
+2. Pack de prompts/plantillas ($5–15 mil CLP) → primer ingreso pasivo.
+3. Clientes que piden "házmelo tú" → agencia/chatbots con suscripción.
+4. Curso o comunidad cuando haya 1.000+ seguidores.
+
 ## Pasos (primeras 2 semanas)
 1. Elegir 1 idea según tus habilidades.
 2. Validar: ofrecer a 10 conocidos / grupos de Facebook y WhatsApp antes de gastar.
