@@ -62,6 +62,41 @@ Regla de catálogo: **se entiende con una foto + una frase, talla única o fáci
 **Nombre:** con este enfoque funcional **"Afírmate" vuelve a encajar** (afirmarse = no caerse, estar seguro y autónomo).
 ⚠️ Sin promesas médicas: "ayuda a", "más seguridad", nunca "previene" o "cura". Productos eléctricos con certificación SEC.
 
+### 5e. Decisión: partir con productos que YA se venden bien (oct 2026)
+Impresora 3D y producto propio quedan para después. Mercado Libre bloquea la consulta automática, así que la evidencia es parcial → **validar a mano** (abajo).
+
+**Top 20 candidatos (demanda probada en Chile o categoría superventas en e-commerce)**
+| # | Producto | Pilar | Evidencia | Precio ref. Chile |
+|---|---|---|---|---|
+| 1 | Calcetines antideslizantes (pack) | Seguridad | ML: "MÁS VENDIDO", +1.000 ventas; se venden por mayor | $3.690 c/u · pack 3 $9.980 |
+| 2 | Pastillero semanal | Salud | En farmacias (Salcobrand) y retail (Paris) | $3.199 · set 3 $27.990 |
+| 3 | Pastillero con alarma | Salud | Variante de mayor ticket | Verificar |
+| 4 | Luces LED con sensor de movimiento (USB/pilas) | Seguridad | Muchos vendedores en ML y Lider | Barra recargable $29.990 (Lider); packs más baratos en ML |
+| 5 | Cojín de asiento viscoelástico | Confort | Varios vendedores en ML (ej. Maxcare), Lider, Paris | Verificar ($87 mil en Lider es caro) |
+| 6 | Pinza alcanzadora | Autonomía | Lider la vende "para personas mayores" | $28.990 – $55.990 |
+| 7 | Cintas antideslizantes para ducha/escalones | Seguridad | Categoría común en ML/Sodimac | Verificar |
+| 8 | Alfombra antideslizante de ducha | Seguridad | Categoría común | Verificar |
+| 9 | Pantuflas antideslizantes cerradas | Seguridad | Categoría común | Verificar |
+| 10 | Reloj-calendario digital (día de la semana, letra grande) | Salud/orientación | Muchos modelos en ML LatAm | Verificar |
+| 11 | Lupa con luz | Salud | Categoría común | Verificar |
+| 12 | Ayuda para poner calcetines | Autonomía | Superventas en "ayudas vida diaria" | Verificar |
+| 13 | Calzador largo | Autonomía | Superventas en "ayudas vida diaria" | Verificar |
+| 14 | Guatero (clásico o de semillas) | Confort | Alta demanda en invierno | Verificar |
+| 15 | Almohada cuña | Confort | Categoría común | Verificar |
+| 16 | Vaso antiderrame / con asas | Autonomía | Categoría común | Verificar |
+| 17 | Cubiertos de mango grueso | Autonomía | Categoría ortopedia | Verificar |
+| 18 | Asidero para auto (se inserta en la puerta) | Autonomía | Producto viral en e-commerce | Verificar |
+| 19 | Abridor de frascos | Autonomía | Categoría común | Verificar |
+| 20 | Botella con marcas de horario | Salud | Producto viral (hidratación) | Verificar |
+
+**Validación manual (1 hora, la hace el fundador)**
+1. En Mercado Libre Chile buscar cada producto → ordenar por relevancia → anotar en una planilla: precio más común, etiqueta "MÁS VENDIDO", "+X vendidos", cantidad de vendedores, reseñas negativas (oportunidades).
+2. Buscar el mismo producto + "por mayor" en ML → posibles proveedores y costo.
+3. Google Trends Chile (12 meses) para ver estacionalidad (ej. guatero en invierno).
+4. Quedarse con los **8–10 productos** con más ventas y margen ≥ 40%.
+
+**Primeros 5 sugeridos (antes de validar):** calcetines antideslizantes, pastillero (semanal + alarma), luces LED con sensor, pinza alcanzadora, cojín de asiento. → Arman los kits "Noche segura", "Remedios al día" y "Manos y espalda".
+
 ### 5d. Recurso: impresora 3D (el fundador tiene una)
 **¿Conviene idear un producto propio?** No como punto de partida. Orden recomendado:
 1. **Primero revender productos probados** (catálogo §5c) → valida demanda sin riesgo.
@@ -287,4 +322,5 @@ Nombre recomendado: **Afírmate** (afirmate.cl disponible al 04-10-2026; falta I
 - [Redalyc: cuidadores informales y dependencia en Chile](https://www.redalyc.org/pdf/3658/365841435013.pdf) · [ESE: Adulto mayor, las dos caras del cuidado](https://ese.cl/ese/site/artic/20241112/asocfile/20241112145913/2024_adulto_mayor__las_dos_caras_del_cuidado.pdf)
 - [Diario Constitucional: proyecto de ley de accesibilidad en viviendas (2026)](https://www.diarioconstitucional.cl/2026/05/26/proyecto-de-ley-obliga-a-incorporar-medidas-de-accesibilidad-en-la-construccion-y-diseno-de-viviendas-en-beneficio-de-personas-mayores/18234-35-verdoc/)
 - [ChileAtiende: registro sanitario dispositivos médicos (ISP)](https://www.chileatiende.gob.cl/fichas/14538-registro-sanitario-de-dispositivos-medicos-bajo-control-sanitario) · [Carey: MINSAL consulta nuevos dispositivos](https://www.carey.cl/api/archivo/minsal-abre-consulta-publica-para-incorporar-nuevos-dispositivos-medicos-al-regimen-de-control-sanitario?lang=es)
+- Precios referencia: [ML calcetines antideslizantes](https://listado.mercadolibre.cl/calcetines-antideslizantes) · [ML calcetas por mayor](https://listado.mercadolibre.cl/calcetas-antideslizante-por-mayor) · [Salcobrand pastillero](https://salcobrand.cl/products/pastillero-semanal-redondo) · [Paris set pastilleros](https://www.paris.cl/set-3-pastilleros-semanal-mes-28-compartimiento-lauii-MKC7MVNOT7.html) · [Lider luz LED sensor](https://www.lider.cl/ip/smart-home/barra-luz-led-inteligente-con-sensor-de-movimiento-recargable/00780990140116) · [Lider pinza alcanzadora](https://www.lider.cl/ip/salud-y-bienestar/grabber-reacher-plegable-de-110-cm-con-imanes-para-personas-mayores/00489995901638) · [ML Maxcare cojines](https://www.mercadolibre.cl/tienda/maxcare)
 - Competidores: [Vital Senior](https://www.vitalsenior.cl/catalogo/soluciones-bano/wc) · [Maxtime](https://www.maxtime.cl/tienda-para-el-adulto-mayor/) · [Deltamed](https://deltamed.cl/tienda/producto/barra-para-bano-de-acero-inoxidable/) · [AISAM](https://web.aisam.cl/productos-para-adulto-y-adulto-mayor/70-barra-para-bano.html) · [Ekipomed](https://www.ekipomed.cl/movilidad/barras-de-apoyo) · [Sodimac](https://www.sodimac.cl/sodimac-cl/lista/CATG10063/Barras-de-Seguridad) · [CHC](https://chc.cl/banos/accesorios-de-bano/barras-de-apoyo)
