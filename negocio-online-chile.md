@@ -16,6 +16,19 @@
 
 **Recomendación:** empezar con 1 o 4 (cero inversión, flujo rápido) y reinvertir en 2 o 5.
 
+## Rentabilidad (estimación aproximada, sin verificar)
+| Idea | Margen aprox. | Rapidez del primer ingreso | Rentable en crisis |
+|------|---------------|----------------------------|--------------------|
+| Servicios freelance para pymes | 80–100% (vendes tu tiempo) | 1–2 semanas | ⭐⭐⭐ |
+| Clases/asesorías online | 90–100% | 1 semana | ⭐⭐⭐ |
+| Comida casera / congelados por encargo | 40–60% | Días | ⭐⭐⭐ (recompra semanal) |
+| Reventa segunda mano | 30–100% por pieza | Días | ⭐⭐ |
+| Packs aseo/abarrotes al por mayor | 15–30% | Días | ⭐⭐ (volumen, poca ganancia por venta) |
+| Venta por encargo (Meiggs/Patronato) | 30–50% | 1–2 semanas | ⭐⭐ |
+
+**Lo más rentable:** lo que vende tu tiempo o conocimiento (casi todo es ganancia) y lo que la gente recompra (comida).
+Ejemplo: 5 pymes × $80.000/mes gestionando redes = $400.000/mes con inversión $0.
+
 ## Pasos (primeras 2 semanas)
 1. Elegir 1 idea según tus habilidades.
 2. Validar: ofrecer a 10 conocidos / grupos de Facebook y WhatsApp antes de gastar.
