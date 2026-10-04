@@ -158,8 +158,9 @@ Se reinvierte todo en los primeros 6 meses (stock, publicidad, marca).
 - [ ] Contactar 5 kinesiólogos/terapeutas ocupacionales para alianzas
 - [ ] Decidir qué productos pasar a stock
 
-## 16. Ideas de nombre (verificar en INAPI y .cl)
-Casa Firme · Paso Seguro · Hogar Sereno · Vivir Tranquilo · Cuidar Fácil · Mano Amiga Store
+## 16. Marca
+Nicho, segmento, buyer personas y marca → [marca-adultos-mayores.md](marca-adultos-mayores.md).
+Nombre recomendado: **Afírmate** (afirmate.cl disponible al 04-10-2026; falta INAPI).
 
 ## Fuentes
 - [El Dínamo: economía plateada en Chile](https://www.eldinamo.cl/opinion/2026/09/07/la-economia-plateada-el-mercado-que-chile-todavia-no-ve/) · [La Tercera: envejecimiento y emprendimiento](https://www.latercera.com/emprendimiento/noticia/como-el-envejecimiento-poblacional-abre-nuevas-oportunidades-para-startup-y-emprendedores/)
