@@ -1,7 +1,7 @@
 # Negocio online en Chile (contexto: crisis económica, poco capital)
 
-> **Decisión (oct 2026):** marca de poleras con impresión a pedido, referente Citrola pero con identidad propia.
-> Plan completo → [plan-negocios-poleras.md](plan-negocios-poleras.md)
+> **Decisión actual (oct 2026):** tienda online para adultos mayores y sus cuidadores → [plan-negocios-adultos-mayores.md](plan-negocios-adultos-mayores.md)
+> Opción anterior: marca de poleras (referente Citrola) → [plan-negocios-poleras.md](plan-negocios-poleras.md)
 > Alternativas evaluadas → [otras-ideas.md](otras-ideas.md)
 > Formalización SII y legal → [guia-legal-sii.md](guia-legal-sii.md)
 

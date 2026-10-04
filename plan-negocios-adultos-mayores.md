@@ -1,0 +1,169 @@
+# Plan de negocios — Tienda online para adultos mayores y sus cuidadores (Chile)
+
+> Estado: borrador v1 · Oct 2026. Nombre de marca pendiente → `[MARCA]`.
+> Costos, márgenes y ventas = **estimaciones a validar** con cotizaciones reales de proveedores.
+> Formalización (SII, legal) → [guia-legal-sii.md](guia-legal-sii.md)
+
+---
+
+## 1. Resumen ejecutivo
+`[MARCA]` es una tienda 100% online de productos para que las personas mayores vivan **seguras y autónomas en su casa** (baño seguro, prevención de caídas, vida diaria, cuidado). Le habla al **hijo o hija de 35–55 años** que cuida a su papá o mamá y compra online.
+- **Diferencia:** marca cálida y moderna (no "ortopedia clínica"), **kits listos por problema**, asesoría gratis por WhatsApp/videollamada y contenido útil para cuidadores.
+- **Inversión inicial:** $100.000 – $500.000 CLP (según venta por encargo o stock pequeño)
+- **Meta 12 meses:** 100–200 pedidos/mes, ticket promedio $35–50 mil
+
+## 2. Por qué esta idea (datos)
+- Chile envejece rápido: **6,45 M de personas mayores de 50 (32,8%)** → 42,5% en 2050. La economía plateada crece ~7%/año y casi nadie diseña para ese público.
+- **~1,5 M de adultos con dependencia**; el 41% no tiene cuidador permanente.
+- El **80% de los cuidadores son mujeres** y 44% presenta síntomas depresivos → necesitan soluciones simples y apoyo.
+- Las caídas en el hogar son un problema de salud pública; hay un proyecto de ley (2026) para exigir accesibilidad en viviendas para personas mayores → el tema estará en la agenda.
+- Es útil en crisis (necesidad, no lujo) y tiene futuro (crece cada año).
+
+## 3. Competencia
+| Competidor | Tipo | Debilidad que aprovechamos |
+|---|---|---|
+| Sodimac, CHC | Retail ferretería/baño | No asesoran, no hablan al cuidador |
+| Vital Senior, Maxtime, AISAM | Tiendas online para adulto mayor | Catálogo amplio pero poca marca y poco contenido |
+| Deltamed, Ekipomed, ortopedias | Ortopedia/insumos médicos | Imagen clínica, foco en hospital, no en el hogar |
+| Mercado Libre | Marketplace | Precio bajo pero sin asesoría ni confianza en calidad |
+
+**Posicionamiento:** "Tu casa segura para tus papás, sin complicarte." Asesoría + kits + contenido.
+
+## 4. Cliente
+**Principal — "la hija cuidadora":** 35–55 años, trabaja, poco tiempo, se preocupa por una caída o por un alta del hospital. Busca en Google/Instagram, compra si confía y si le resuelven todo rápido.
+**Secundarios:** adultos mayores autónomos 60–75 que compran online; cuidadoras pagadas; centros de día y ELEAM pequeños (venta B2B en fase 2).
+
+**Momentos de compra:** después de una caída o un susto, alta hospitalaria, mudanza del papá/mamá a casa de un hijo, regalos (Día de la Madre/Padre, **Día del Adulto Mayor 1 de octubre**, Navidad).
+
+## 5. Productos
+**Kits (producto estrella, sube el ticket):**
+| Kit | Contenido ejemplo | Precio ref. |
+|---|---|---|
+| Baño seguro | 2 barras de apoyo, alfombra antideslizante, silla/banco de ducha, alza WC | $60–90 mil |
+| Prevención de caídas | Luces LED con sensor, cintas antideslizantes, pastillas antideslizantes para alfombras, bastón | $35–55 mil |
+| Vuelta a casa (alta hospitalaria) | Andador, cojín, pastillero semanal, vaso y cubiertos adaptados | $50–80 mil |
+| Vida diaria fácil | Pastillero con alarma, lupa con luz, abridor de frascos, calzador largo, pinza alcanzadora | $25–40 mil |
+
+**Productos sueltos:** barras de apoyo, alzas WC, sillas de ducha, bastones, andadores, antideslizantes, pastilleros, teléfonos de teclas grandes, botón de emergencia/reloj con alerta de caída (fase 2).
+
+**No vender (al inicio):** guantes, agujas, jeringas y otros dispositivos bajo control obligatorio del ISP; medicamentos.
+
+**Producto digital gratis (imán de clientes):** "Checklist: ¿es segura la casa de tus papás?" (PDF) → captura WhatsApp/email.
+
+## 6. Precios y margen (estimado)
+| | Valor |
+|---|---|
+| Ticket promedio objetivo | $35–50 mil (con kits) |
+| Margen bruto reventa | 35–50% |
+| Pasarela de pago | 3–4% |
+| Envío | Cobrar al cliente; envío gratis sobre $50 mil (absorbe ~$4–6 mil) |
+| Margen neto por pedido | ~$10–18 mil antes de publicidad |
+
+Ojo: productos voluminosos (andadores, sillas de ducha) encarecen el envío → priorizar productos pequeños y kits en caja.
+
+## 7. Operación
+**Fase 1 — Venta por encargo (casi sin stock):**
+1. Conseguir 2–3 distribuidores/mayoristas de ayudas técnicas en Santiago (buscar en Google, Mercado Libre vendedores mayoristas, ferias de salud, importadores). Negociar: precio mayorista + despacho directo al cliente o retiro rápido.
+2. Publicar catálogo con fotos propias/proveedor. El cliente paga → compras al proveedor → despachas (Blue Express, Starken, Chilexpress, o Mercado Envíos).
+3. Plazo de entrega honesto: 3–5 días hábiles.
+
+**Fase 2 — Stock pequeño de los 15 productos más vendidos** (en casa, cumpliendo MEF) → entrega más rápida y kits armados con caja de marca.
+
+**Fase 3 — Marca propia / importación directa** de los best-sellers (más margen) + venta B2B a centros de día y ELEAM.
+
+## 8. Canales
+1. **Tienda propia** (Jumpseller o Shopify) — confianza y marca.
+2. **Mercado Libre** — volumen y búsquedas de producto.
+3. **Google** (SEO + Google Ads de búsqueda): la gente busca "barra de apoyo baño", "silla de ducha adulto mayor" → intención de compra alta.
+4. **Facebook e Instagram** — donde están las hijas 35–55; **WhatsApp Business** para asesoría y cierre de venta.
+5. **Alianzas (fase 2):** kinesiólogos, terapeutas ocupacionales, cuidadoras, centros de día (comisión por referido).
+
+## 9. Marketing (contenido con IA + experiencia del fundador)
+- **Contenido útil para cuidadores:** "5 cambios para evitar caídas en el baño", "qué preparar antes del alta", "cómo hablar con tu papá sobre el bastón". IA para guiones, carruseles y videos.
+- **Asesoría gratis por videollamada:** "te ayudamos a revisar la casa de tus papás en 15 minutos" → genera confianza y ventas de kits.
+- **Testimonios reales** (con permiso) y fotos del antes/después de baños.
+- **Comunidad de cuidadoras** (grupo de Facebook/WhatsApp) — apoyo + ventas.
+- **Campañas por fecha:** Día del Adulto Mayor (1 oct), Día de la Madre/Padre, Navidad, invierno (caídas por lluvia/hielo en el sur).
+- **Publicidad:** Google Ads de búsqueda desde el mes 1 (alta intención); Meta Ads con contenido validado.
+
+## 10. Proyección financiera (escenario conservador, estimada)
+Supuesto: margen neto ~$12 mil por pedido antes de publicidad.
+
+| Periodo | Pedidos/mes | Margen/mes | Publicidad/mes | Resultado/mes |
+|---|---|---|---|---|
+| Mes 1–3 | 10 – 30 | $120 – 360 mil | $50 – 100 mil | ≈ $70 – 260 mil |
+| Mes 4–6 | 40 – 80 | $480 – 960 mil | $150 – 250 mil | ≈ $330 – 710 mil |
+| Mes 7–12 | 100 – 200 | $1,2 – 2,4 M | $300 – 500 mil | ≈ $0,9 – 1,9 M |
+
+Se reinvierte todo en los primeros 6 meses (stock, publicidad, marca).
+
+## 11. Inversión inicial
+| Ítem | Por encargo | Con stock pequeño |
+|---|---|---|
+| Muestras de productos (revisar calidad, fotos) | $50–80 mil | $50–80 mil |
+| Stock inicial top 10–15 productos | — | $300–400 mil |
+| Tienda online (1–2 meses) | $15–40 mil | $15–40 mil |
+| Dominio .cl + logo/identidad (IA + ajustes) | $10–30 mil | $10–30 mil |
+| Publicidad de prueba | $30–50 mil | $30–50 mil |
+| **Total** | **~$105–200 mil** | **~$405–600 mil** |
+
+**Recomendación:** partir por encargo y pasar a stock con las primeras ganancias.
+
+## 12. Legal específico
+- Formalización general → [guia-legal-sii.md](guia-legal-sii.md) (SpA recomendada: vendes productos físicos con riesgo de uso).
+- **ISP:** en Chile solo guantes, condones, agujas y jeringas estériles están bajo control obligatorio → **no venderlos**. El MINSAL evalúa sumar más dispositivos: revisar antes de agregar productos médicos (tensiómetros, glucómetros).
+- Productos eléctricos (luces con sensor, alarmas) con **certificación SEC**.
+- **Responsabilidad:** instrucciones claras de instalación; recomendar instalación profesional para barras de apoyo; no hacer promesas médicas ("previene el 100% de caídas").
+- Garantía legal 6 meses y retracto 10 días (Ley del Consumidor).
+
+## 13. Riesgos y mitigación
+| Riesgo | Mitigación |
+|---|---|
+| Competencia con tiendas existentes y Mercado Libre | Marca, kits, asesoría y contenido (no competir solo por precio) |
+| Proveedor sin stock o lento | 2–3 proveedores; pasar best-sellers a stock propio |
+| Costos de envío altos (voluminosos) | Priorizar productos pequeños; envío incluido en kits |
+| Producto mal instalado → accidente | Guías/videos de instalación, recomendar profesional, SpA para proteger patrimonio |
+| Ventas lentas al inicio | Google Ads de búsqueda (intención alta) + asesoría gratis |
+
+## 14. Prueba de 60 días (seguir / ajustar / cambiar)
+| Señal | Seguir | Ajustar | Cambiar |
+|---|---|---|---|
+| Pedidos | 30+ | 10–29 | < 10 |
+| Consultas por WhatsApp | 100+ | 30–99 | < 30 |
+| Descargas del checklist | 300+ | 100–299 | < 100 |
+| Costo por venta en anuncios | < $10 mil | $10–15 mil | > $15 mil |
+
+## 15. Plan de lanzamiento — primeras 4 semanas
+**Semana 1 — Base**
+- [ ] Elegir nombre (ver ideas abajo), revisar en INAPI y dominio .cl
+- [ ] Investigación: 10 competidores (precios, productos, reseñas negativas = oportunidades), búsquedas en Google Trends y Mercado Libre
+- [ ] Contactar 5 distribuidores; cotizar 20 productos; pedir muestras de 5
+- [ ] Formalizar: Empresa en un Día (SpA) + inicio de actividades SII
+
+**Semana 2 — Tienda y contenido**
+- [ ] Tienda online con 20–30 productos + 4 kits
+- [ ] WhatsApp Business con catálogo y respuestas rápidas
+- [ ] Checklist PDF "¿es segura la casa de tus papás?"
+- [ ] 12 piezas de contenido listas (IA + edición propia)
+
+**Semana 3 — Lanzamiento**
+- [ ] Publicar en Instagram, Facebook y Mercado Libre
+- [ ] Unirse a grupos de cuidadores/adultos mayores (aportar valor, no spam)
+- [ ] Google Ads de búsqueda: $3–5 mil/día en 10 palabras clave de alta intención
+- [ ] Ofrecer asesoría gratis por videollamada (meta: 10 asesorías)
+
+**Semana 4 — Medir y ajustar**
+- [ ] Revisar: qué productos/kits se consultan y venden, costo por venta
+- [ ] Pedir reseñas a los primeros clientes
+- [ ] Contactar 5 kinesiólogos/terapeutas ocupacionales para alianzas
+- [ ] Decidir qué productos pasar a stock
+
+## 16. Ideas de nombre (verificar en INAPI y .cl)
+Casa Firme · Paso Seguro · Hogar Sereno · Vivir Tranquilo · Cuidar Fácil · Mano Amiga Store
+
+## Fuentes
+- [El Dínamo: economía plateada en Chile](https://www.eldinamo.cl/opinion/2026/09/07/la-economia-plateada-el-mercado-que-chile-todavia-no-ve/) · [La Tercera: envejecimiento y emprendimiento](https://www.latercera.com/emprendimiento/noticia/como-el-envejecimiento-poblacional-abre-nuevas-oportunidades-para-startup-y-emprendedores/)
+- [Redalyc: cuidadores informales y dependencia en Chile](https://www.redalyc.org/pdf/3658/365841435013.pdf) · [ESE: Adulto mayor, las dos caras del cuidado](https://ese.cl/ese/site/artic/20241112/asocfile/20241112145913/2024_adulto_mayor__las_dos_caras_del_cuidado.pdf)
+- [Diario Constitucional: proyecto de ley de accesibilidad en viviendas (2026)](https://www.diarioconstitucional.cl/2026/05/26/proyecto-de-ley-obliga-a-incorporar-medidas-de-accesibilidad-en-la-construccion-y-diseno-de-viviendas-en-beneficio-de-personas-mayores/18234-35-verdoc/)
+- [ChileAtiende: registro sanitario dispositivos médicos (ISP)](https://www.chileatiende.gob.cl/fichas/14538-registro-sanitario-de-dispositivos-medicos-bajo-control-sanitario) · [Carey: MINSAL consulta nuevos dispositivos](https://www.carey.cl/api/archivo/minsal-abre-consulta-publica-para-incorporar-nuevos-dispositivos-medicos-al-regimen-de-control-sanitario?lang=es)
+- Competidores: [Vital Senior](https://www.vitalsenior.cl/catalogo/soluciones-bano/wc) · [Maxtime](https://www.maxtime.cl/tienda-para-el-adulto-mayor/) · [Deltamed](https://deltamed.cl/tienda/producto/barra-para-bano-de-acero-inoxidable/) · [AISAM](https://web.aisam.cl/productos-para-adulto-y-adulto-mayor/70-barra-para-bano.html) · [Ekipomed](https://www.ekipomed.cl/movilidad/barras-de-apoyo) · [Sodimac](https://www.sodimac.cl/sodimac-cl/lista/CATG10063/Barras-de-Seguridad) · [CHC](https://chc.cl/banos/accesorios-de-bano/barras-de-apoyo)
