@@ -62,6 +62,12 @@ Regla de catálogo: **se entiende con una foto + una frase, talla única o fáci
 **Nombre:** con este enfoque funcional **"Afírmate" vuelve a encajar** (afirmarse = no caerse, estar seguro y autónomo).
 ⚠️ Sin promesas médicas: "ayuda a", "más seguridad", nunca "previene" o "cura". Productos eléctricos con certificación SEC.
 
+### 5f. RESULTADO de la investigación (04-10-2026) → [investigacion-productos.md](investigacion-productos.md)
+**Productos de inicio:** calcetines antideslizantes, luces LED con sensor, ayuda para poner calcetines, asidero para auto, pastillero con alarma (+ calzador largo como complemento).
+**Kits:** Noche segura ($19.990) · Vestirse solo ($22.990) · Remedios al día ($16.990) · Salir seguro ($19.990).
+**Descartados:** cojín viscoelástico, almohada cuña, vaso antiderrame, alfombra de ducha, manta. **Invierno 2027:** pantuflas, guateros, calcetines térmicos.
+**Competidores especializados adicionales:** Senior's Life, Mundo Amable.
+
 ### 5e. Decisión: partir con productos que YA se venden bien (oct 2026)
 Impresora 3D y producto propio quedan para después. Mercado Libre bloquea la consulta automática, así que la evidencia es parcial → **validar a mano** (abajo).
 

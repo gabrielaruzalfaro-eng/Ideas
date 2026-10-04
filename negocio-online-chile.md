@@ -5,6 +5,7 @@
 > Opción anterior: marca de poleras (referente Citrola) → [plan-negocios-poleras.md](plan-negocios-poleras.md)
 > Alternativas evaluadas → [otras-ideas.md](otras-ideas.md)
 > Formalización SII y legal → [guia-legal-sii.md](guia-legal-sii.md)
+> Investigación de productos, proveedores y costos → [investigacion-productos.md](investigacion-productos.md)
 
 ## Criterios
 - Inversión inicial: $0 – $150.000 CLP
