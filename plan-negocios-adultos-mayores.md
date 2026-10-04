@@ -35,6 +35,40 @@
 
 **Momentos de compra:** después de una caída o un susto, alta hospitalaria, mudanza del papá/mamá a casa de un hijo, regalos (Día de la Madre/Padre, **Día del Adulto Mayor 1 de octubre**, Navidad).
 
+## 5b. Ajuste clave: productos que NO requieran asesoría (oct 2026)
+El fundador quiere el segmento adulto mayor, pero **sin productos que obliguen a asesorar** (ni instalación, ni elegir medidas/pesos, ni temas médicos). Criterio: el cliente entiende el producto con una foto y una frase.
+
+**Nivel de asesoría por categoría**
+| Categoría | Ejemplos | Asesoría | ¿Va? |
+|---|---|---|---|
+| Ortopedia / movilidad | Andadores, sillas de ducha, alzas WC, bastones | Alta (medidas, peso, condición de salud) | ❌ por ahora |
+| Seguridad con instalación | Barras de pared | Alta | ❌ |
+| **Vida diaria fácil** | Pastilleros semanales, lupa con luz, reloj-calendario de letra grande, abridor de frascos, enhebrador, calzador largo | Baja | ✅ |
+| **Comodidad y abrigo** | Calcetines y pantuflas antideslizantes, mantas, guateros, cojín lumbar, luces LED con sensor | Muy baja | ✅ |
+| **Mente activa** | Libros de actividades con letra grande (sopas de letras, crucigramas, memoria), puzzles de piezas grandes, naipes y dominó de números grandes | Muy baja | ✅ |
+| **Conexión con la familia** | Marco de fotos digital, álbum "cuéntame tu vida" para completar, calendario familiar | Muy baja | ✅ |
+
+**Nuevo enfoque recomendado:** "**Regalos útiles para tus papás y abuelos**": productos simples, pequeños (envío barato), que no requieren explicación y se compran mucho para regalar.
+
+**Producto estrella de marca propia:** **libro/cuadernillo de actividades con letra grande** (y álbum "cuéntame tu vida") diseñado por el fundador con IA e impreso en Chile.
+- Margen alto (diseño propio), cero asesoría, envío en sobre.
+- Usa sus habilidades (contenido, marketing) y tiene identidad.
+- ⚠️ Sin promesas médicas: decir "para entretenerse y mantener la mente activa", nunca "previene la demencia".
+
+**Kits de regalo (sin asesoría):**
+| Kit | Contenido | Precio ref. |
+|---|---|---|
+| Invierno abrigado | Calcetines antideslizantes, guatero, manta, taza térmica | $25–40 mil |
+| Mente activa | 2 libros de actividades, puzzle piezas grandes, naipes números grandes | $20–35 mil |
+| Día a día fácil | Pastillero semanal, lupa con luz, abridor de frascos, reloj-calendario | $25–40 mil |
+| Recuerdos | Álbum "cuéntame tu vida" + marco de fotos | $20–35 mil |
+
+**Fechas clave:** Día del Adulto Mayor (1 oct), Día de la Madre/Padre, Navidad, invierno.
+
+**Sobre la marca:** "Afírmate" encaja con seguridad/caídas; con este enfoque de regalo y bienestar quizás conviene un nombre más cálido (revisar en [marca-adultos-mayores.md](marca-adultos-mayores.md)).
+
+> Las secciones 5a, 5 y siguientes quedan como referencia del enfoque anterior (seguridad/caídas).
+
 ## 5a. Decisión: solo productos, sin instalación ni servicios (por ahora)
 - El fundador no instala y no quiere ofrecer servicios.
 - **Catálogo = solo productos que no requieren instalación** (sin taladro, se usan al sacarlos de la caja o se fijan a mano).
