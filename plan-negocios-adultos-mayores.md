@@ -62,6 +62,29 @@ Regla de catálogo: **se entiende con una foto + una frase, talla única o fáci
 **Nombre:** con este enfoque funcional **"Afírmate" vuelve a encajar** (afirmarse = no caerse, estar seguro y autónomo).
 ⚠️ Sin promesas médicas: "ayuda a", "más seguridad", nunca "previene" o "cura". Productos eléctricos con certificación SEC.
 
+### 5d. Recurso: impresora 3D (el fundador tiene una)
+**¿Conviene idear un producto propio?** No como punto de partida. Orden recomendado:
+1. **Primero revender productos probados** (catálogo §5c) → valida demanda sin riesgo.
+2. **En paralelo, usar la impresora 3D para accesorios pequeños de bajo riesgo** que complementen los kits → margen alto, sin stock, diferenciación.
+3. **Solo si un accesorio se vende solo**, mejorarlo y convertirlo en producto estrella de marca propia.
+
+**Accesorios imprimibles (funcionales, sin asesoría, sin cargar peso)**
+| Accesorio | Para qué | Material sugerido |
+|---|---|---|
+| Ayuda para girar llaves | Llaves con mango grande, para manos con artrosis | PLA/PETG |
+| Abridor de botellas y latas | Abrir sin fuerza | PETG |
+| Engrosador de mango (cepillo de dientes, lápiz, cuchara) | Agarre fácil | TPU flexible (solo la zona de agarre) |
+| Soporte de naipes | Jugar sin sostener las cartas | PLA |
+| Abotonador / tirador de cierres | Vestirse solo | PETG |
+| Organizador de remedios, lentes y llaves | Orden diario | PLA |
+| Soporte de celular/tablet para videollamadas | Hablar con la familia | PLA/PETG |
+
+**Cuidados**
+- **No imprimir nada que soporte peso o sea de seguridad** (barras, apoyos, piezas de andador).
+- **Contacto con comida:** el PLA impreso no es apto para uso prolongado con alimentos (poroso, acumula bacterias) → usar solo para mangos/agarres, no para la parte que toca la comida.
+- **Licencias:** muchos diseños de Thingiverse/Printables son "no comercial" (CC BY-NC) → usar diseños con licencia comercial o diseñar propios.
+- Capacidad: la impresora sirve para decenas de unidades al mes, no cientos → si algo se vende mucho, pasar a más impresoras o fabricación por inyección.
+
 > Las secciones 5b, 5a y 5 quedan como historial de decisiones.
 
 ## 5b. Ajuste clave: productos que NO requieran asesoría (oct 2026)
