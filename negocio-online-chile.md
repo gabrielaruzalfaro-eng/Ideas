@@ -57,6 +57,30 @@ Como no necesitas ingresos inmediatos, conviene saltarse "vender tiempo" e ir a 
 **Recomendación:** audiencia de nicho + producto digital (inversión $0, riesgo bajo; la audiencia luego sirve para lanzar plataforma o app).
 Clave: elegir un nicho específico (ej. "finanzas para familias en crisis", "emprender con $0 en Chile") y publicar a diario.
 
+## Opción elegida: contenido con IA, sin mostrar la cara (canal "faceless")
+El usuario aún no tiene un tema.
+
+**Herramientas ($0 para empezar):**
+- Guiones: Claude / ChatGPT
+- Voz: ElevenLabs (plan gratis) o CapCut (voz IA)
+- Imágenes/video: CapCut, Canva, Leonardo, clips gratis de Pexels
+- Publicar: TikTok, YouTube Shorts, Instagram Reels (mismo video en las 3)
+
+**Temas fáciles de producir con IA y que en Chile se pueden monetizar:**
+1. Finanzas personales / ahorrar en crisis (afiliados: cuentas, apps; producto: planilla de presupuesto)
+2. Curiosidades / historia de Chile y Latinoamérica (vistas altas → monetización de la plataforma)
+3. Herramientas IA para trabajar/emprender (afiliados de software; producto: guía de prompts)
+4. Recetas baratas (producto: recetario PDF "comer con $X a la semana")
+
+**Cómo elegir sin saber:** probar 3 temas × 10 videos cada uno (2 semanas) → quedarse con el que tenga más vistas/seguidores.
+
+**Ojo (reglas de las plataformas):** YouTube y TikTok no pagan por contenido masivo y repetitivo. La IA es para producir rápido, pero cada video necesita un enfoque propio (opinión, datos reales, formato propio). Etiquetar contenido IA cuando la plataforma lo pida.
+
+**Plan 30 días:**
+- Sem 1–2: 1 cuenta por plataforma, 30 videos cortos (3 temas)
+- Sem 3: elegir el tema ganador, publicar 1–2 diarios
+- Sem 4: crear 1 producto digital simple (PDF/plantilla) + link en la bio (Hotmart/Gumroad/Mercado Pago)
+
 ## Pasos (primeras 2 semanas)
 1. Elegir 1 idea según tus habilidades.
 2. Validar: ofrecer a 10 conocidos / grupos de Facebook y WhatsApp antes de gastar.
