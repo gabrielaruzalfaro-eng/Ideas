@@ -45,6 +45,18 @@ Se descartan comida, reventa física y packs (requieren logística).
 2. Mes 3+: convertir ese conocimiento en **producto digital** (ingreso pasivo, escala).
    Ej.: gestionas redes de pymes → vendes "Pack 30 plantillas + calendario de contenido para pymes chilenas".
 
+## Ajuste: no importa no ganar al principio → priorizar escala
+Como no necesitas ingresos inmediatos, conviene saltarse "vender tiempo" e ir a modelos que crecen sin que trabajes más:
+
+| Modelo | Tiempo hasta ganar | Potencial |
+|--------|--------------------|-----------|
+| **Audiencia de nicho + productos digitales** (TikTok/IG/YouTube → cursos, plantillas, afiliados) | 3–9 meses | Alto |
+| **Plataforma/directorio de nicho** (ej. conectar clientes con maestros, tutores o pymes locales; cobrar suscripción o comisión) | 6–12 meses | Muy alto |
+| **Micro-SaaS / app simple** para pymes chilenas (ej. agenda + recordatorios WhatsApp, boletas, inventario) | 6–12 meses | Muy alto |
+
+**Recomendación:** audiencia de nicho + producto digital (inversión $0, riesgo bajo; la audiencia luego sirve para lanzar plataforma o app).
+Clave: elegir un nicho específico (ej. "finanzas para familias en crisis", "emprender con $0 en Chile") y publicar a diario.
+
 ## Pasos (primeras 2 semanas)
 1. Elegir 1 idea según tus habilidades.
 2. Validar: ofrecer a 10 conocidos / grupos de Facebook y WhatsApp antes de gastar.
