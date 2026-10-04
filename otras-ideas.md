@@ -50,6 +50,30 @@ Lógica: en crisis la gente compra lo que **le ahorra plata** o **evita gastar e
 
 Por qué calza con el fundador: el éxito depende de marketing e investigación de mercado (encontrar ofertas, entender qué duele, crecer audiencia), sin vender esos servicios.
 
+---
+
+## Ronda 3: más ideas con futuro + útiles en crisis (basadas en datos de Chile 2026)
+
+**Datos**
+- **Envejecimiento:** 6,45 M de personas mayores de 50 (32,8% del país) → 42,5% en 2050. La "economía plateada" crece ~7%/año y casi nadie diseña para ese público. Los mayores de 60 tienen el menor nivel de educación financiera.
+- **Deudas:** 4,01 M de personas morosas (1T-2026), mora total +15% real en 12 meses; 2,9 M llevan 12+ meses en mora.
+- **Empleo:** desempleo 9,6% (jun–ago 2026), 42 meses sobre 8%; informalidad 26,8% y todo el empleo nuevo es informal; suben los trabajadores por cuenta propia.
+- **Seguridad:** sigue siendo la principal preocupación (46%), pero la percepción de aumento del delito bajó de 80% a 51% → oportunidad decreciente.
+
+| # | Idea | Problema que resuelve | Futuro | Crisis | Inversión |
+|---|------|-----------------------|--------|--------|-----------|
+| 7 | **Tienda online para adultos mayores y sus cuidadores** (barras de apoyo, antideslizantes, pastilleros, lupas, teléfonos simples, kits para prevenir caídas). Compran los hijos de 35–55 años, que sí compran online | Seguridad y autonomía en casa | ⭐⭐⭐ | ⭐⭐ (necesidad) | $100–300 mil (proveedor nacional despacha) |
+| 8 | **Comunidad y guías para cuidadores** (contenido, checklists, directorio de cuidadoras y servicios) | Cuidar a un familiar sin saber cómo | ⭐⭐⭐ | ⭐⭐ | $0 |
+| 9 | **Medio "salir de deudas"** (contenido + planilla + curso: ordenar deudas, negociar, presupuesto). Solo educación, no asesoría financiera | 4 M de morosos | ⭐⭐⭐ | ⭐⭐⭐ | $0 |
+| 10 | **Kit digital para trabajadores independientes** (formalizarse en el SII, boletas, cotizar, cobrar, planillas de precios) → después micro-app (agenda + cobros por WhatsApp) | Más gente trabajando por su cuenta, sin herramientas | ⭐⭐⭐ | ⭐⭐⭐ | $0 (producto digital) |
+| 11 | **Bolsa de trabajos por proyecto/part-time de nicho** (ej. solo para regiones, o para mayores de 50) | Desempleo alto | ⭐⭐ | ⭐⭐⭐ | $0–100 mil |
+
+### Ranking global (todas las rondas) para este perfil
+1. **Tienda para adultos mayores y cuidadores (#7)** — el mercado que más crece, con poca competencia de marca, útil y necesario.
+2. **Medio de finanzas para la crisis: ahorro + salir de deudas (#2 + #9)** — inversión $0, audiencia enorme; se monetiza con afiliados, productos digitales y después tienda propia.
+3. **Kit digital para trabajadores independientes (#10)** — margen ~100%, escala y puede evolucionar a app.
+4. Tienda de ahorro energético (#1) — muy buena pero más estacional (invierno, sur).
+
 ## Fuentes
 - [CCS: eCommerce Chile 2026](https://www.ccs.cl/ecommerce/ecommerce-chile-2026-crecimiento-tendencias/)
 - [Shopify: productos más vendidos en Chile 2026](https://www.shopify.com/es/blog/productos-mas-vendidos-en-chile)
@@ -59,4 +83,8 @@ Por qué calza con el fundador: el éxito depende de marketing e investigación 
 - [BioBioChile: alza de la luz por ciudad](https://www.biobiochile.cl/noticias/servicios/explicado/2026/06/26/se-viene-el-alza-de-la-luz-este-1-de-julio-revisa-cuanto-subira-en-las-principales-ciudades-del-pais.shtml)
 - [Emol: autos usados agosto 2026](https://www.emol.com/noticias/Autos/2026/09/04/1210584/autos-usados-cavem-agosto-2026.html)
 - [GM Insights: mercado de electrónica de segunda mano](https://www.gminsights.com/es/industry-analysis/second-hand-electronic-products-market)
+- [El Dínamo: economía plateada en Chile (sep-2026)](https://www.eldinamo.cl/opinion/2026/09/07/la-economia-plateada-el-mercado-que-chile-todavia-no-ve/) · [La Tercera: envejecimiento y emprendimiento](https://www.latercera.com/emprendimiento/noticia/como-el-envejecimiento-poblacional-abre-nuevas-oportunidades-para-startup-y-emprendedores/)
+- [The Clinic: 4 M de chilenos con deudas impagas (abr-2026)](https://www.theclinic.cl/2026/04/23/mas-de-4-millones-de-chilenos-mantienen-deudas-impagas-y-morosidad-registra-el-mayor-aumento-anual-en-tres-anos/)
+- [T13: desempleo 9,6% jun–ago 2026](https://www.t13.cl/noticia/nacional/tasa-desempleo-chile-llega-9-6-trimestre-junio-agosto-2026-30-9-2026) · [Meganoticias: desempleo e informalidad](https://www.meganoticias.cl/nacional/532842-desempleo-96-cesantia-en-chile-junio-agosto-30-09-2026.html)
+- [Radio Agricultura: percepción de delincuencia 2026](https://www.radioagricultura.cl/noticias/nacional/encuesta-chile-nos-habla-percepcion-de-aumento-de-delincuencia-cae-30-puntos-en-un-ano_20260410/)
 - [Mercado Libre Afiliados Chile](https://www.mercadolibre.cl/l/afiliados) · [Chócale: Falabella lanza afiliados](https://chocale.cl/2025/08/puedes-ganar-plata-recomendando-productos-falabella-se-suma-a-mercado-libre-y-lanza-su-propio-programa-de-afiliados/)
