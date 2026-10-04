@@ -34,9 +34,9 @@
 ## 3. Buyer personas
 **Carolina, 46 — "la hija cuidadora" (principal)**
 - Vive en Ñuñoa, trabaja jornada completa, 2 hijos. Su mamá (78) vive sola en Maipú y se resbaló en la ducha el mes pasado.
-- Dolor: miedo a que se caiga de nuevo, culpa, no sabe qué comprar ni quién lo instala.
+- Dolor: miedo a que se caiga de nuevo, culpa, no sabe qué comprar, no tiene a nadie que instale cosas.
 - Busca: "barras para baño adulto mayor" en Google, pregunta en el grupo de Facebook del curso del colegio.
-- Necesita: que alguien le diga exactamente qué comprar, que llegue rápido, que sea de calidad y fácil de instalar.
+- Necesita: saber exactamente qué comprar, que llegue rápido, que sea de calidad y que se use sin instalar nada.
 - Frase: *"Solo quiero que mi mamá esté bien sin tener que estar llamándola todo el día."*
 
 **Don Jorge, 69 — "el autónomo orgulloso" (usuario/comprador secundario)**
@@ -49,14 +49,14 @@
 - Necesita: un lugar confiable al que derivar, con buenos productos; una comisión por referido es un plus.
 
 ## 4. Propuesta de valor
-**Para** hijas e hijos que cuidan a sus papás, **que** temen una caída y no tienen tiempo para investigar, **`[MARCA]` es** la tienda online que **deja la casa de tus papás segura en un solo paso**: te asesora gratis, te envía un kit completo con todo lo necesario y te explica cómo instalarlo. **A diferencia** de ferreterías y ortopedias, no vendemos productos sueltos: resolvemos el problema.
+**Para** hijas e hijos que cuidan a sus papás, **que** temen una caída y no tienen tiempo para investigar, **`[MARCA]` es** la tienda online que **deja la casa de tus papás segura en un solo paso**: te ayuda a elegir con un test simple y te envía un kit completo **que se usa sin instalar nada**. **A diferencia** de ferreterías y ortopedias, no vendemos productos sueltos: resolvemos el problema.
 
 | Dolor del cliente | Cómo lo resolvemos |
 |---|---|
-| No sé qué comprar | Asesoría gratis (WhatsApp/videollamada) + checklist + kits por problema |
+| No sé qué comprar | Test online "¿qué kit necesitan tus papás?" + checklist + kits por problema |
 | No tengo tiempo | Kit completo en una compra, despacho a domicilio de los papás |
 | Miedo a comprar algo malo | Productos probados, garantía, reseñas reales |
-| ¿Quién lo instala? | La mayoría de los productos **no necesita instalación**; las barras de pared, con maestro aliado opcional (el fundador no instala) |
+| ¿Quién lo instala? | **Nadie: todo el catálogo se usa sin taladro ni herramientas** (decisión: solo productos, sin servicios por ahora) |
 | Mi papá no quiere "cosas de viejo" | Diseño y lenguaje cálido, moderno, nada clínico |
 
 ## 5. Marca recomendada: **Afírmate**
@@ -91,7 +91,7 @@ Dominio **afirmate.cl disponible** (04-10-2026).
 | **Visión (5 años)** | Ser la marca de referencia en Chile para envejecer seguro en casa. |
 | **Valores** | Cariño · Simpleza · Confianza · Respeto por la autonomía · Cercanía |
 | **Personalidad** | La vecina o el sobrino que sabe de estas cosas: cálido, práctico, con humor suave, nunca condescendiente. |
-| **Promesa** | "Te decimos qué necesitas, te llega todo junto y te explicamos cómo usarlo." |
+| **Promesa** | "Te decimos qué necesitas, te llega todo junto y se usa sin instalar nada." |
 
 ## 7. Tono de voz
 | Sí | No |
@@ -112,7 +112,7 @@ Dominio **afirmate.cl disponible** (04-10-2026).
 
 ## 9. Mensajes clave (pilares de contenido)
 1. **Prevenir:** "El 80% de los accidentes en casa se pueden evitar con cambios simples" ← verificar cifra antes de usarla.
-2. **Resolver:** kits y tutoriales ("instala una barra en 10 minutos").
+2. **Resolver:** kits listos para usar ("baño seguro en 5 minutos, sin taladro").
 3. **Acompañar a quien cuida:** contenido emocional y práctico para hijas/os cuidadores.
 4. **Autonomía con orgullo:** historias de mayores activos que siguen viviendo solos.
 
@@ -121,9 +121,9 @@ Dominio **afirmate.cl disponible** (04-10-2026).
 |---|---|---|
 | Detonante | Caída, susto, alta del hospital | Estar en Google y Facebook en ese momento |
 | Búsqueda | Googlea, pregunta en grupos | SEO, Google Ads, contenido útil, presencia en grupos |
-| Consideración | Compara, duda | Checklist gratis, asesoría por WhatsApp, reseñas |
+| Consideración | Compara, duda | Checklist gratis, test online, respuestas por WhatsApp, reseñas |
 | Compra | Elige kit | Pago fácil (Mercado Pago, Webpay, cuotas), envío a otra dirección |
-| Entrega e instalación | Llega a casa de los papás | Guía impresa + video + WhatsApp de soporte |
+| Entrega y uso | Llega a casa de los papás | Listo para usar + guía de uso con letra grande + video corto |
 | Fidelización | Vuelve a necesitar algo | Seguimiento a los 30 días, nuevo kit, comunidad |
 | Recomendación | Le cuenta a hermanos/amigas | Código de referido, reseñas |
 
@@ -134,7 +134,7 @@ Dominio **afirmate.cl disponible** (04-10-2026).
 
 ## 12. Indicadores de marca (además de ventas)
 - % de ventas que son kits (meta 40%+)
-- Asesorías por semana y % que termina en compra
+- Respuestas al test por semana y % que termina en compra
 - Reseñas con 4,5+ estrellas
 - Búsquedas de "Afírmate" en Google (marca conocida)
 - Clientes que vuelven a comprar en 6 meses

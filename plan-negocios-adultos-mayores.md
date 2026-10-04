@@ -8,7 +8,7 @@
 
 ## 1. Resumen ejecutivo
 `[MARCA]` es una tienda 100% online de productos para que las personas mayores vivan **seguras y autónomas en su casa** (baño seguro, prevención de caídas, vida diaria, cuidado). Le habla al **hijo o hija de 35–55 años** que cuida a su papá o mamá y compra online.
-- **Diferencia:** marca cálida y moderna (no "ortopedia clínica"), **kits listos por problema**, asesoría gratis por WhatsApp/videollamada y contenido útil para cuidadores.
+- **Diferencia:** marca cálida y moderna (no "ortopedia clínica"), **kits listos por problema**, **sin instalación**, test online "¿qué kit necesitan tus papás?" y contenido útil para cuidadores. **Solo productos, sin servicios (por ahora).**
 - **Inversión inicial:** $100.000 – $500.000 CLP (según venta por encargo o stock pequeño)
 - **Meta 12 meses:** 100–200 pedidos/mes, ticket promedio $35–50 mil
 
@@ -27,7 +27,7 @@
 | Deltamed, Ekipomed, ortopedias | Ortopedia/insumos médicos | Imagen clínica, foco en hospital, no en el hogar |
 | Mercado Libre | Marketplace | Precio bajo pero sin asesoría ni confianza en calidad |
 
-**Posicionamiento:** "Tu casa segura para tus papás, sin complicarte." Asesoría + kits + contenido.
+**Posicionamiento:** "Tu casa segura para tus papás, sin complicarte." Kits sin instalación + guía para elegir + contenido.
 
 ## 4. Cliente
 **Principal — "la hija cuidadora":** 35–55 años, trabaja, poco tiempo, se preocupa por una caída o por un alta del hospital. Busca en Google/Instagram, compra si confía y si le resuelven todo rápido.
@@ -35,11 +35,10 @@
 
 **Momentos de compra:** después de una caída o un susto, alta hospitalaria, mudanza del papá/mamá a casa de un hijo, regalos (Día de la Madre/Padre, **Día del Adulto Mayor 1 de octubre**, Navidad).
 
-## 5a. Restricción: el fundador NO instala
-Solución en 3 capas:
-1. **Catálogo principal = productos sin instalación** (sin taladro, se usan al sacarlos de la caja o se fijan a mano).
-2. **Productos que requieren perforar (barras de pared):** se ofrecen con **instalación opcional por un maestro aliado** (red de maestros independientes por comuna; el cliente paga la instalación; el maestro responde por su trabajo). El fundador solo coordina por WhatsApp.
-3. **Opción "hazlo tú":** video y guía para que un familiar lo instale, con advertencias claras.
+## 5a. Decisión: solo productos, sin instalación ni servicios (por ahora)
+- El fundador no instala y no quiere ofrecer servicios.
+- **Catálogo = solo productos que no requieren instalación** (sin taladro, se usan al sacarlos de la caja o se fijan a mano).
+- **Barras de pared (requieren perforar): fuera del catálogo inicial.** Evaluar más adelante (venta solo del producto o alianza con instaladores).
 
 **Sin instalación (núcleo del catálogo):**
 | Producto | Para qué |
@@ -61,7 +60,6 @@ Solución en 3 capas:
 | Kit | Contenido ejemplo | Precio ref. |
 |---|---|---|
 | Baño seguro **sin taladro** | Silla de ducha, alza WC con apoyabrazos o marco WC, alfombra antideslizante, barra de bañera con abrazadera | $60–90 mil |
-| Baño seguro + instalación (opcional) | Lo anterior + 2 barras de pared instaladas por maestro aliado | $60–90 mil + instalación |
 | Prevención de caídas | Luces LED con sensor, cintas antideslizantes, pastillas antideslizantes para alfombras, barra de cama | $35–55 mil |
 | Vuelta a casa (alta hospitalaria) | Andador, cojín, pastillero semanal, vaso y cubiertos adaptados | $50–80 mil |
 | Vida diaria fácil | Pastillero con alarma, lupa con luz, abridor de frascos, calzador largo, pinza alcanzadora | $25–40 mil |
@@ -97,12 +95,12 @@ Ojo: productos voluminosos (andadores, sillas de ducha) encarecen el envío → 
 1. **Tienda propia** (Jumpseller o Shopify) — confianza y marca.
 2. **Mercado Libre** — volumen y búsquedas de producto.
 3. **Google** (SEO + Google Ads de búsqueda): la gente busca "barra de apoyo baño", "silla de ducha adulto mayor" → intención de compra alta.
-4. **Facebook e Instagram** — donde están las hijas 35–55; **WhatsApp Business** para asesoría y cierre de venta.
+4. **Facebook e Instagram** — donde están las hijas 35–55; **WhatsApp Business** para responder dudas y cerrar ventas.
 5. **Alianzas (fase 2):** kinesiólogos, terapeutas ocupacionales, cuidadoras, centros de día (comisión por referido).
 
 ## 9. Marketing (contenido con IA + experiencia del fundador)
 - **Contenido útil para cuidadores:** "5 cambios para evitar caídas en el baño", "qué preparar antes del alta", "cómo hablar con tu papá sobre el bastón". IA para guiones, carruseles y videos.
-- **Asesoría gratis por videollamada:** "te ayudamos a revisar la casa de tus papás en 15 minutos" → genera confianza y ventas de kits.
+- **Test online "¿qué kit necesitan tus papás?"** (5 preguntas en la web → recomienda kit) → reemplaza la asesoría personal y escala sin trabajo extra.
 - **Testimonios reales** (con permiso) y fotos del antes/después de baños.
 - **Comunidad de cuidadoras** (grupo de Facebook/WhatsApp) — apoyo + ventas.
 - **Campañas por fecha:** Día del Adulto Mayor (1 oct), Día de la Madre/Padre, Navidad, invierno (caídas por lluvia/hielo en el sur).
@@ -135,18 +133,17 @@ Se reinvierte todo en los primeros 6 meses (stock, publicidad, marca).
 - Formalización general → [guia-legal-sii.md](guia-legal-sii.md) (SpA recomendada: vendes productos físicos con riesgo de uso).
 - **ISP:** en Chile solo guantes, condones, agujas y jeringas estériles están bajo control obligatorio → **no venderlos**. El MINSAL evalúa sumar más dispositivos: revisar antes de agregar productos médicos (tensiómetros, glucómetros).
 - Productos eléctricos (luces con sensor, alarmas) con **certificación SEC**.
-- **Responsabilidad:** instrucciones claras de instalación; recomendar instalación profesional para barras de apoyo; no hacer promesas médicas ("previene el 100% de caídas").
+- **Responsabilidad:** solo productos sin instalación, con instrucciones de uso claras y límites de peso visibles; no hacer promesas médicas ("previene el 100% de caídas").
 - Garantía legal 6 meses y retracto 10 días (Ley del Consumidor).
 
 ## 13. Riesgos y mitigación
 | Riesgo | Mitigación |
 |---|---|
-| Competencia con tiendas existentes y Mercado Libre | Marca, kits, asesoría y contenido (no competir solo por precio) |
+| Competencia con tiendas existentes y Mercado Libre | Marca, kits sin instalación, test para elegir y contenido (no competir solo por precio) |
 | Proveedor sin stock o lento | 2–3 proveedores; pasar best-sellers a stock propio |
 | Costos de envío altos (voluminosos) | Priorizar productos pequeños; envío incluido en kits |
-| Producto mal instalado → accidente | Catálogo principal sin instalación; barras de pared solo con maestro aliado (acuerdo escrito: el maestro responde por su trabajo) o guía DIY con advertencias; SpA para proteger patrimonio |
-| Conseguir maestros confiables | Partir con 2–3 maestros en comunas clave (referidos, reseñas); pago por trabajo; ampliar según demanda |
-| Ventas lentas al inicio | Google Ads de búsqueda (intención alta) + asesoría gratis |
+| Mal uso del producto → accidente | Solo productos sin instalación, instrucciones y límites de peso claros, proveedores con certificaciones; SpA para proteger patrimonio |
+| Ventas lentas al inicio | Google Ads de búsqueda (intención alta) + test online + checklist gratis |
 
 ## 14. Prueba de 60 días (seguir / ajustar / cambiar)
 | Señal | Seguir | Ajustar | Cambiar |
@@ -173,7 +170,7 @@ Se reinvierte todo en los primeros 6 meses (stock, publicidad, marca).
 - [ ] Publicar en Instagram, Facebook y Mercado Libre
 - [ ] Unirse a grupos de cuidadores/adultos mayores (aportar valor, no spam)
 - [ ] Google Ads de búsqueda: $3–5 mil/día en 10 palabras clave de alta intención
-- [ ] Ofrecer asesoría gratis por videollamada (meta: 10 asesorías)
+- [ ] Publicar test "¿qué kit necesitan tus papás?" (meta: 100 respuestas)
 
 **Semana 4 — Medir y ajustar**
 - [ ] Revisar: qué productos/kits se consultan y venden, costo por venta
