@@ -102,6 +102,23 @@ Cambia la recomendación: usar esa experiencia + IA = ventaja frente a la compet
 3. Clientes que piden "házmelo tú" → agencia/chatbots con suscripción.
 4. Curso o comunidad cuando haya 1.000+ seguidores.
 
+## Ajuste final: experiencia en marketing + investigación de mercado, pero NO quiere vender esos servicios
+Usar esas habilidades para **su propio negocio** (encontrar demanda y vender), no como agencia/consultora.
+
+**Ideas de negocio propio (100% online, IA para producir):**
+| # | Idea | Cómo usa sus habilidades | Inversión |
+|---|------|--------------------------|-----------|
+| 1 | **Marca de productos digitales de nicho** (planners, plantillas, guías, cursos) en un rubro NO marketing (ej. maternidad, fitness, estudiantes PAES, mascotas) | Investiga qué se busca y no existe en español/Chile | $0 |
+| 2 | **Print-on-demand** (poleras, tazas, stickers con diseños IA; ej. humor chileno, regiones, mascotas) — sin stock | Detecta tendencias y nichos | $0–30 mil |
+| 3 | **Tienda online de nicho con proveedor que despacha** (dropshipping nacional/Mercado Libre) | Elige producto ganador con datos | $30–100 mil |
+| 4 | **Sitio/canal de reseñas y comparativas** (ej. "mejores productos para X en Chile") con afiliados (Mercado Libre, Amazon, Falabella) | SEO + entender al comprador | $0–15 mil |
+| 5 | **Medio digital de nicho con IA** (canal faceless + newsletter sobre un tema NO marketing) | Crecer audiencia y monetizarla | $0 |
+| 6 | **Directorio o marketplace de nicho** (ej. tutores PAES, cuidadoras de mascotas, talleres mecánicos) | Encontrar un mercado mal atendido | $0–50 mil |
+
+**Ventaja:** la mayoría falla por elegir mal el producto o no saber venderlo; eso es justo lo que el usuario sabe hacer.
+
+**Siguiente paso:** hacer investigación rápida (Google Trends, más vendidos de Mercado Libre, búsquedas en TikTok) para elegir 1 nicho.
+
 ## Pasos (primeras 2 semanas)
 1. Elegir 1 idea según tus habilidades.
 2. Validar: ofrecer a 10 conocidos / grupos de Facebook y WhatsApp antes de gastar.
