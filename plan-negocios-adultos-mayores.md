@@ -35,12 +35,34 @@
 
 **Momentos de compra:** después de una caída o un susto, alta hospitalaria, mudanza del papá/mamá a casa de un hijo, regalos (Día de la Madre/Padre, **Día del Adulto Mayor 1 de octubre**, Navidad).
 
+## 5a. Restricción: el fundador NO instala
+Solución en 3 capas:
+1. **Catálogo principal = productos sin instalación** (sin taladro, se usan al sacarlos de la caja o se fijan a mano).
+2. **Productos que requieren perforar (barras de pared):** se ofrecen con **instalación opcional por un maestro aliado** (red de maestros independientes por comuna; el cliente paga la instalación; el maestro responde por su trabajo). El fundador solo coordina por WhatsApp.
+3. **Opción "hazlo tú":** video y guía para que un familiar lo instale, con advertencias claras.
+
+**Sin instalación (núcleo del catálogo):**
+| Producto | Para qué |
+|---|---|
+| Silla o banco de ducha | Ducharse sentado |
+| Alza WC con apoyabrazos (se fija al WC a mano) | Sentarse y pararse |
+| Marco de seguridad para WC (independiente, sin perforar) | Apoyo al lado del WC |
+| Barra de bañera con abrazadera (se aprieta al borde) | Entrar y salir de la tina |
+| Barra de apoyo para cama (va bajo el colchón) | Levantarse de la cama |
+| Alfombras y cintas antideslizantes | Evitar resbalones |
+| Luces LED con sensor (adhesivas, a pilas o USB) | Caminar de noche al baño |
+| Asidero para auto (se inserta en la puerta) | Subir y bajar del auto |
+| Bastón, andador, pinza alcanzadora, pastillero con alarma, lupa con luz | Vida diaria |
+
+⚠️ **No vender barras con ventosa como apoyo de peso**: pueden soltarse y causar caídas. Si se venden, solo como "guía de equilibrio" con advertencia.
+
 ## 5. Productos
 **Kits (producto estrella, sube el ticket):**
 | Kit | Contenido ejemplo | Precio ref. |
 |---|---|---|
-| Baño seguro | 2 barras de apoyo, alfombra antideslizante, silla/banco de ducha, alza WC | $60–90 mil |
-| Prevención de caídas | Luces LED con sensor, cintas antideslizantes, pastillas antideslizantes para alfombras, bastón | $35–55 mil |
+| Baño seguro **sin taladro** | Silla de ducha, alza WC con apoyabrazos o marco WC, alfombra antideslizante, barra de bañera con abrazadera | $60–90 mil |
+| Baño seguro + instalación (opcional) | Lo anterior + 2 barras de pared instaladas por maestro aliado | $60–90 mil + instalación |
+| Prevención de caídas | Luces LED con sensor, cintas antideslizantes, pastillas antideslizantes para alfombras, barra de cama | $35–55 mil |
 | Vuelta a casa (alta hospitalaria) | Andador, cojín, pastillero semanal, vaso y cubiertos adaptados | $50–80 mil |
 | Vida diaria fácil | Pastillero con alarma, lupa con luz, abridor de frascos, calzador largo, pinza alcanzadora | $25–40 mil |
 
@@ -122,7 +144,8 @@ Se reinvierte todo en los primeros 6 meses (stock, publicidad, marca).
 | Competencia con tiendas existentes y Mercado Libre | Marca, kits, asesoría y contenido (no competir solo por precio) |
 | Proveedor sin stock o lento | 2–3 proveedores; pasar best-sellers a stock propio |
 | Costos de envío altos (voluminosos) | Priorizar productos pequeños; envío incluido en kits |
-| Producto mal instalado → accidente | Guías/videos de instalación, recomendar profesional, SpA para proteger patrimonio |
+| Producto mal instalado → accidente | Catálogo principal sin instalación; barras de pared solo con maestro aliado (acuerdo escrito: el maestro responde por su trabajo) o guía DIY con advertencias; SpA para proteger patrimonio |
+| Conseguir maestros confiables | Partir con 2–3 maestros en comunas clave (referidos, reseñas); pago por trabajo; ampliar según demanda |
 | Ventas lentas al inicio | Google Ads de búsqueda (intención alta) + asesoría gratis |
 
 ## 14. Prueba de 60 días (seguir / ajustar / cambiar)

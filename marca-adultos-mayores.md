@@ -56,7 +56,7 @@
 | No sé qué comprar | Asesoría gratis (WhatsApp/videollamada) + checklist + kits por problema |
 | No tengo tiempo | Kit completo en una compra, despacho a domicilio de los papás |
 | Miedo a comprar algo malo | Productos probados, garantía, reseñas reales |
-| ¿Quién lo instala? | Videos y guías de instalación + red de instaladores (fase 2) |
+| ¿Quién lo instala? | La mayoría de los productos **no necesita instalación**; las barras de pared, con maestro aliado opcional (el fundador no instala) |
 | Mi papá no quiere "cosas de viejo" | Diseño y lenguaje cálido, moderno, nada clínico |
 
 ## 5. Marca recomendada: **Afírmate**
