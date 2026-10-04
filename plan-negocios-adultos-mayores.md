@@ -35,6 +35,35 @@
 
 **Momentos de compra:** después de una caída o un susto, alta hospitalaria, mudanza del papá/mamá a casa de un hijo, regalos (Día de la Madre/Padre, **Día del Adulto Mayor 1 de octubre**, Navidad).
 
+## 5c. ENFOQUE VIGENTE: productos funcionales para el bienestar, sin asesoría (oct 2026)
+Requisitos del fundador: (1) producto, no servicio; (2) sin instalación; (3) sin mucha asesoría; (4) **funcional y que mejore el bienestar** (no solo regalo o entretención).
+Regla de catálogo: **se entiende con una foto + una frase, talla única o fácil, sin condición médica para elegirlo.**
+
+**4 pilares de bienestar y productos**
+| Pilar | Problema real | Productos (sin instalación, baja asesoría) |
+|---|---|---|
+| **1. Seguridad: menos caídas** | Resbalones en baño, de noche, en pantuflas | Calcetines y pantuflas antideslizantes, luces LED con sensor (adhesivas, a pilas/USB), cintas antideslizantes para ducha y escalones, alfombra antideslizante de ducha |
+| **2. Salud diaria** | Olvidar remedios, deshidratación, no ver bien | Pastillero semanal/mensual, pastillero con alarma, botella con marcas de horario para tomar agua, lupa con luz, reloj-calendario con día de la semana y letra grande |
+| **3. Autonomía** | Dificultad para agacharse, vestirse, comer, subir al auto | Pinza alcanzadora, calzador largo, ayuda para poner calcetines, cubiertos de mango grueso, vaso antiderrame, plato con borde, asidero para auto, abridor de frascos |
+| **4. Confort y descanso** | Frío en invierno, dolor al estar sentado, mal dormir | Guatero, calcetines térmicos, manta, cojín de asiento, almohada cuña, luz de noche cálida |
+
+**Kits funcionales**
+| Kit | Contenido | Precio ref. |
+|---|---|---|
+| Noche segura | 3 luces LED con sensor + calcetines antideslizantes + luz de noche | $20–30 mil |
+| Baño sin resbalones | Alfombra y cintas antideslizantes de ducha + pantuflas antideslizantes | $25–35 mil |
+| Remedios al día | Pastillero con alarma + pastillero semanal + reloj-calendario | $25–40 mil |
+| Manos y espalda | Pinza alcanzadora + calzador largo + ayuda para calcetines + abridor | $20–30 mil |
+| Invierno con bienestar | Guatero + calcetines térmicos antideslizantes + manta | $25–35 mil |
+
+**Para evitar asesoría:** cada ficha de producto con "¿Para quién es? / ¿Para quién NO es?", fotos de uso real, medidas claras y guía simple. El test online recomienda kits.
+
+**Marca propia (fase 2):** calcetines antideslizantes, pastilleros y cintas con la marca → más margen e identidad.
+**Nombre:** con este enfoque funcional **"Afírmate" vuelve a encajar** (afirmarse = no caerse, estar seguro y autónomo).
+⚠️ Sin promesas médicas: "ayuda a", "más seguridad", nunca "previene" o "cura". Productos eléctricos con certificación SEC.
+
+> Las secciones 5b, 5a y 5 quedan como historial de decisiones.
+
 ## 5b. Ajuste clave: productos que NO requieran asesoría (oct 2026)
 El fundador quiere el segmento adulto mayor, pero **sin productos que obliguen a asesorar** (ni instalación, ni elegir medidas/pesos, ni temas médicos). Criterio: el cliente entiende el producto con una foto y una frase.
 

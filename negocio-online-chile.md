@@ -1,7 +1,7 @@
 # Negocio online en Chile (contexto: crisis económica, poco capital)
 
 > **Decisión actual (oct 2026):** tienda online para adultos mayores → [plan-negocios-adultos-mayores.md](plan-negocios-adultos-mayores.md)
-> Restricciones del fundador: solo productos, sin instalación, sin servicios, **sin productos que requieran mucha asesoría** → enfoque "regalos útiles para papás y abuelos" (ver §5b del plan).
+> Restricciones del fundador: solo productos, sin instalación, sin servicios, **sin productos que requieran mucha asesoría** → y que sean **funcionales para el bienestar** (no solo regalos/actividades). Enfoque vigente: §5c del plan (4 pilares: seguridad, salud diaria, autonomía, confort). Marca: Afírmate.
 > Opción anterior: marca de poleras (referente Citrola) → [plan-negocios-poleras.md](plan-negocios-poleras.md)
 > Alternativas evaluadas → [otras-ideas.md](otras-ideas.md)
 > Formalización SII y legal → [guia-legal-sii.md](guia-legal-sii.md)
