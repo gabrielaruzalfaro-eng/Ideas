@@ -3,6 +3,7 @@
 > **Decisión (oct 2026):** marca de poleras con impresión a pedido, referente Citrola pero con identidad propia.
 > Plan completo → [plan-negocios-poleras.md](plan-negocios-poleras.md)
 > Alternativas evaluadas → [otras-ideas.md](otras-ideas.md)
+> Formalización SII y legal → [guia-legal-sii.md](guia-legal-sii.md)
 
 ## Criterios
 - Inversión inicial: $0 – $150.000 CLP
