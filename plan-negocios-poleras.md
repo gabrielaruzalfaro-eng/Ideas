@@ -134,6 +134,30 @@ Se aceptan meses sin ganancia al inicio (decisión del fundador); toda ganancia 
 - Costo por venta en anuncios (CAC) vs margen por unidad
 - % de clientes que recompran
 
+## 15. Evaluación honesta del nicho
+**Veredicto:** sí es viable para emprender, con condiciones.
+
+**A favor**
+- Riesgo muy bajo: sin stock, inversión < $200 mil, se puede probar en semanas.
+- Producto de regalo y de precio bajo: se sigue vendiendo en crisis.
+- El fundador sabe marketing e investigación de mercado, que es justo lo que decide si una marca de poleras funciona.
+- Citrola demuestra que en Chile hay espacio para marcas de diseño con comunidad.
+
+**En contra**
+- Mercado muy saturado: cualquiera puede abrir una tienda de poleras.
+- Competencia de precio con Shein, Temu y retail (poleras estampadas desde ~$6.000 en Lider).
+- Con impresión a pedido el margen por polera es bajo; se gana con volumen o con producción propia.
+- La polera es lo de menos: se vende la **identidad y la comunidad**. Sin eso, no funciona.
+
+**Condición para que funcione:** una identidad muy clara (que alguien diga "esto es tan yo") + contenido constante.
+
+**Prueba de 60 días (criterios para seguir o cambiar):**
+| Señal | Seguir | Ajustar | Cambiar de idea |
+|---|---|---|---|
+| Ventas | 30+ | 10–29 | < 10 |
+| Seguidores nuevos | 1.000+ | 300–999 | < 300 |
+| Diseños que se venden solos (sin anuncios) | 2+ | 1 | 0 |
+
 ## Fuentes
 - [Citrola — tienda](https://tiendacitrola.com/) · [Instagram](https://www.instagram.com/tiendacitrola.dtg/) · [Quinta Trends: Citrola, plataforma de ilustradores chilenos](https://www.quintatrends.com/2019/07/citrola-indumentaria-plataforma-ilustradores-chilenos.html)
 - [PrintDrop](https://www.printdrop.cl/) · [Tee.cl](https://www.tee.cl/) · [Gelato productos](https://www.gelato.com/products)
