@@ -65,6 +65,20 @@ El fundador quiere el segmento adulto mayor, pero **sin productos que obliguen a
 
 **Fechas clave:** Día del Adulto Mayor (1 oct), Día de la Madre/Padre, Navidad, invierno.
 
+**Más opciones de baja asesoría (lluvia de ideas)**
+| # | Idea | Por qué sirve | Asesoría | Marca propia |
+|---|------|---------------|----------|--------------|
+| 1 | **Caja mensual para tus papás** (suscripción: libro de actividades, manualidad, snack, carta de la familia) | Ingreso recurrente; regalo continuo de hijos que viven lejos | Muy baja | ✅ |
+| 2 | **Regalos personalizados con fotos de la familia** (calendario, puzzle con foto, taza, cojín) por impresión a pedido | Muy emocional; sin stock (mismo modelo POD de las poleras) | Muy baja | ✅ |
+| 3 | **Juego para abuelos y nietos** (cartas de preguntas/recuerdos, memorice con fotos) | Une generaciones; regalo; identidad fuerte | Muy baja | ✅ |
+| 4 | **Cocina fácil** (cubiertos de mango grueso, platos con borde, vasos antiderrame, abridores) | Uso diario, se entiende con una foto | Baja | Parcial |
+| 5 | **Tecnología simple** (radio fácil, reloj despertador que habla la hora, localizador de llaves, control remoto simple) | Autonomía; regalo | Baja | ❌ |
+| 6 | **Hobbies** (kits de tejido, pintura por números con números grandes, huerto de mesa) | Entretención y compañía | Muy baja | Parcial |
+| 7 | **Organización** (agenda de contactos y claves con letra grande, organizador de lentes y llaves, pastillero) | Simplifica el día a día | Muy baja | ✅ (papelería propia) |
+| 8 | **Descanso** (cojín de asiento, almohada cuña, mesa de cama) | Comodidad | Baja | ❌ |
+
+**Top 3 para este perfil:** (1) Caja mensual (recurrente), (2) Regalos personalizados con fotos (sin stock), (3) Libro de actividades / juego abuelos-nietos (marca propia). Los tres se pueden combinar en una sola marca.
+
 **Sobre la marca:** "Afírmate" encaja con seguridad/caídas; con este enfoque de regalo y bienestar quizás conviene un nombre más cálido (revisar en [marca-adultos-mayores.md](marca-adultos-mayores.md)).
 
 > Las secciones 5a, 5 y siguientes quedan como referencia del enfoque anterior (seguridad/caídas).
