@@ -29,6 +29,22 @@
 **Lo más rentable:** lo que vende tu tiempo o conocimiento (casi todo es ganancia) y lo que la gente recompra (comida).
 Ejemplo: 5 pymes × $80.000/mes gestionando redes = $400.000/mes con inversión $0.
 
+## Filtro: 100% (o casi) online — preferencia del usuario
+Se descartan comida, reventa física y packs (requieren logística).
+
+| Idea | Todo online | Escala | Inversión |
+|------|-------------|--------|-----------|
+| **Agencia de redes/marketing para pymes** | ✅ | Media (subcontratar después) | $0 |
+| **Clases/asesorías por Zoom/Meet** | ✅ | Baja (tu tiempo) | $0 |
+| **Productos digitales** (plantillas Canva/Excel, guías PDF, curso grabado) — vender en Hotmart, Gumroad o Instagram | ✅ | Alta (se vende infinitas veces) | $0 |
+| **Webs/tiendas para pymes** (Jumpseller, WordPress) | ✅ | Media | $0 |
+| **Asistente virtual** (agendas, correos, atención por WhatsApp para negocios) | ✅ | Media | $0 |
+
+**Ruta recomendada:**
+1. Mes 1–2: vender un **servicio** (ingreso rápido, aprendes qué duele a los clientes).
+2. Mes 3+: convertir ese conocimiento en **producto digital** (ingreso pasivo, escala).
+   Ej.: gestionas redes de pymes → vendes "Pack 30 plantillas + calendario de contenido para pymes chilenas".
+
 ## Pasos (primeras 2 semanas)
 1. Elegir 1 idea según tus habilidades.
 2. Validar: ofrecer a 10 conocidos / grupos de Facebook y WhatsApp antes de gastar.
