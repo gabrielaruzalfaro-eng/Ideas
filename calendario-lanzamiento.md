@@ -13,7 +13,7 @@
 - [ ] **Mar 6:** inicio de actividades en el SII (giro venta por internet), activar boleta electrónica
 - [ ] **Mar 6:** pedir cotización a Todo en Salud y Casa de la Salud (respaldo local)
 - [ ] **Mié 7–Jue 8:** revisar [lista-compra.md](lista-compra.md), elegir listados, comparar con Temu
-- [ ] **Vie 9:** **comprar stock de prueba en AliExpress** (~$250–300 mil, IVA 19% incluido al pagar)
+- [ ] **Vie 9:** **comprar stock de prueba en AliExpress** (~$320 mil escenario ajustado, IVA 19% incluido; cada compra < US$500)
 - [ ] Abrir cuenta bancaria del negocio (o Mercado Pago empresa)
 
 ## Semana 2 · 12–18 oct — Marca y canales (lun 12 feriado)
